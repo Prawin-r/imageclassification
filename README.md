@@ -1,4 +1,4 @@
-# imageclassification# Image Classification using Convolutional Neural Networks
+# Image Classification using Convolutional Neural Networks
 
 ## Overview
 
